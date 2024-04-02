@@ -7,4 +7,5 @@
 * Calories Remaining
 
 You can see the Web App [here!](https://clever-toffee-4ecba3.netlify.app/)
+
 Created by watching Brad Traversy's Udemy Courses
